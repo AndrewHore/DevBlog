@@ -16,7 +16,7 @@
 title: Andrew's Dev Blog
 #email: todo@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog to share software development things I've learned.
+  A blog to share software development learnings that will hopefully help others.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.andrew-hore.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AndrewGHore
